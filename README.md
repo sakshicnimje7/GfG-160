@@ -1,5 +1,4 @@
-# GfG-160
-A comprehensive collection of fundamental data structures and algorithms.
+# GfG-160 
 ---
 ## 📚 GfG160 – 160 Days of Problem Solving
 
